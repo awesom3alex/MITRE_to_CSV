@@ -1,7 +1,7 @@
 # MITRE ATT&amp;CK in CSV form
 
 
-Fetch the latest [MITRE ATT&CK &copy; Enterprise Techniques], and convert this to a [CSV]
+Fetch the latest MITRE ATT&CK &copy; Enterprise Techniques, and convert this to a CSV
 
 This repo leverages the MITRE ATT&CK Enterprise Techniques data from https://github.com/mitre/cti, but is not associated with MITRE.
 
